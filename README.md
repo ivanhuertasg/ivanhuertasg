@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👨‍💻 ¡Hola! Soy **Iván Huertas**  
 
-<!--
-**ivanhuertasg/ivanhuertasg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Apasionado por la **Inteligencia Artificial 🤖** y la **Ciberseguridad 🔐**  
+Siempre explorando, aprendiendo y buscando nuevos retos 💡  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Sobre mí  
+- 🧠 Me encanta el mundo de la **IA** y cómo está cambiando el futuro.  
+- 🛡️ Interesado en **defender sistemas** y aprender más de hacking ético.  
+- 🚀 Estudiante en crecimiento constante, con ganas de innovar.  
+
+---
+
+## 🎯 Objetivos  
+- 📚 Mejorar cada día en **IA & CyberSec**  
+- 💼 Construir proyectos útiles que marquen la diferencia  
+- 🌍 Conectar con gente con las mismas pasiones  
+
+---
+
+## ⚡ Fun facts  
+- Me encanta echarme la siesta
+- Odio el cafe 
+- Me gusta toquetear codigos a ver que ocurre
+---
+
+

@@ -10,7 +10,7 @@ Siempre explorando, aprendiendo y buscando nuevos retos 💡
 - 🛡️ Interesado en **defender sistemas** y aprender más de hacking ético.  
 - 🚀 Estudiante en crecimiento constante, con ganas de innovar.  
 
----123
+---
 
 ## 🎯 Objetivos  
 - 📚 Mejorar cada día en **IA & CyberSec**  

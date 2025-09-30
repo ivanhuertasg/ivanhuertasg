@@ -19,10 +19,4 @@ Siempre explorando, aprendiendo y buscando nuevos retos 💡
 
 ---
 
-## ⚡ Fun facts  
-- Me encanta echarme la siesta
-- Odio el cafe 
-- Me gusta toquetear codigos a ver que ocurre
----
-
 
